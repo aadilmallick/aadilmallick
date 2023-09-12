@@ -1,9 +1,9 @@
 <h1 align="center">Salutations. I'm Aadil</h1>
 <h3 align="center">Fullstack web dev specializing in React, React Native, and NextJS</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning _Intro to Linux Command Line_ on Frontend Masters
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
