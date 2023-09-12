@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning _Intro to Linux Command Line_ on Frontend Masters
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
