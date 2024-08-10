@@ -16,6 +16,7 @@
 Here are some of my gists
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2a08f8759bea0a47eb3a7dac2e5e26c2)](https://gist.github.com/aadilmallick/2a08f8759bea0a47eb3a7dac2e5e26c2)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f63e4e081ed9fa87a3d7093dfdbca06f)](https://gist.github.com/aadilmallick/f63e4e081ed9fa87a3d7093dfdbca06f)
 
 
 ### Technologies 
