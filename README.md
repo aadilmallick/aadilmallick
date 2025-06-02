@@ -1,8 +1,8 @@
 <h1 align="center">What's up. I'm Aadil</h1>
 <h3 align="center">Fullstack web dev and ML Engineer specializing in React, React Native, and NextJS</h3>
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning _Coursera machine learning specialization_ and _ThreeJS Journey_
+- 🔭 I’m currently working on learning kubernetes and PostgreSQL
+- 🌱 I’m currently learning kubernetes, and refreshing my knowledge on postgresql, nextjs, astro.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
