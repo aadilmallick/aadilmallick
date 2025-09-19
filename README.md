@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack web dev and ML Engineer specializing in React, React Native, and NextJS</h3>
 
 - 🔭 I’m currently working on learning kubernetes and PostgreSQL
-- 🌱 I’m currently learning kubernetes, and refreshing my knowledge on postgresql, nextjs, astro.
+- 🌱 I’m currently learning quantum computing, AI-first development with Claude Code, and networking with HTTP + HTTPS.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
