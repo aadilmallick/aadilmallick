@@ -13,6 +13,14 @@ Here's how I progressed as a developer:
 * year 4: Locking down a wide breadth of developer fundamentals by learning databases (PostgreSQL, MongoDB, Redis, MySQL, SQLite), networking, Docker + Docker compose, clean code patterns, and learning OOP in TypeScript with advanced JavaScript APIs (proxies, web components, webRTC, shadow DOM).
 * year 5: Going back to math fundamentals, mastering differential equations, linear algebra, multivariable calculus, probability + statistics, abstract algebra, and even learning quantum computing. Experimented with Deno, Langchain, local LLMs via Ollama, and batch-processing hundreds of thousands of OpenAI API requests. Mastered data structures and implemented generic graph traversal with Dijkstra's in TypeScript.
 
+### What makes me special
+
+I'm willing to learn things that people aren't. Here are some of the niche technologies and subjects I'm learning:
+
+* Quantum Computing with Qiskit
+* Hosting fullstack Deno + TypeScript + SSR React applications on Deno Deploy
+* abstract algebra
+
 ### What I'm doing right now.
 
 * 🌍  I'm based in United States
