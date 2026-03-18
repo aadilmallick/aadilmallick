@@ -11,7 +11,7 @@ Here's how I progressed as a developer:
 * year 2: React.js, Firebase, and then bolstering my fundamentals with advanced CSS
 * year 3: Next.JS, TailwindCSS, and learning modern dev with Vite and TypeScript. Got addicted to FrontendMasters. Trying out new things by mastering git, linux, astro, and bun.
 * year 4: Locking down a wide breadth of developer fundamentals by learning databases (PostgreSQL, MongoDB, Redis, MySQL, SQLite), networking, Docker + Docker compose, clean code patterns, and learning OOP in TypeScript with advanced JavaScript APIs (proxies, web components, webRTC, shadow DOM).
-* year 5: Going back to math fundamentals, mastering differential equations, linear algebra, multivariable calculus, probability + statistics, abstract algebra, and even learning quantum computing. Experimented with Deno, Langchain, local LLMs via Ollama, and batch-processing hundreds of thousands of OpenAI API requests. Mastered data structures and implemented generic graph traversal with Dijkstra's in TypeScript.
+* year 5: Going back to math fundamentals, mastering differential equations, linear algebra, multivariable calculus, probability + statistics, abstract algebra, and even learning quantum computing. Experimented with Deno, Langchain, local LLMs via Ollama, OpenClawm and batch-processing hundreds of thousands of OpenAI API requests. Mastered data structures and implemented generic graph traversal with Dijkstra's in TypeScript.
 
 ### What makes me special
 
@@ -19,7 +19,7 @@ I'm willing to learn things that people aren't. Here are some of the niche techn
 
 * Quantum Computing with Qiskit
 * Hosting fullstack Deno + TypeScript + SSR React applications on Deno Deploy
-* abstract algebra
+* abstract algebra, probability + statistics, number theory, bayesian inference
 
 ### What I'm doing right now.
 
@@ -27,9 +27,8 @@ I'm willing to learn things that people aren't. Here are some of the niche techn
 * 🖥️  See my portfolio at [AadilMallick.com](http://aadilmallick.com)
 * ✉️  You can contact me at [amallick@wm.edu](mailto:amallick@wm.edu)
 - 🔭 I’m currently working on [VibeResume](https://viberesume-ai.vercel.app/), which is an AI-powered resume to personal portfolio site generator, free to use with gemini-2.5-flash.
-- 🌱 I’m currently learning quantum computing, AI-first development with Claude Code, and abstract algebra and number theory
-* 👥  I'm looking to collaborate on VibeResume
-* 💬  Ask me about If you don't want to hire me as a developer at least hire me to work in McDonald's and let me put the fries in the bag.
+- 🌱 I’m currently learning how to use OpenClaw to automate my life, first playing around locally and then offloading it to a VPS.
+* 💬  If you don't want to hire me as a developer at least hire me to work in McDonald's and let me put the fries in the bag.
 
 ### Badges
 
