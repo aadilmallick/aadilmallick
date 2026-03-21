@@ -1,7 +1,57 @@
-<h1 align="center">What's up. I'm Aadil</h1>
-<h3 align="center">Fullstack web dev and ML Engineer specializing in React, React Native, and NextJS</h3>
+<h1 align="center">Hey, I'm Aadil 👋</h1>
+ 
+<h3 align="center">AI-First Software Engineer · Full-Stack TypeScript Dev · Python AI/ML Undergrad Researcher</h3>
+ 
+<p align="center">
+  <a href="http://aadilmallick.com"><img src="https://img.shields.io/badge/Portfolio-aadilmallick.com-blue?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:amallick@wm.edu"><img src="https://img.shields.io/badge/Email-amallick@wm.edu-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-United%20States-green?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=aadilmallick&style=flat-square&color=blueviolet" alt="profile views"/>
+</p>
+ 
+---
+ 
+## About Me
+ 
+I'm a software engineer who builds **AI-first**. Over the past year, I've shifted from traditional full-stack development into the frontier of AI engineering — building fullstack AI applications, composing Claude Code skills, automating workflows with OpenClaw, and wiring together LLM pipelines with VercelAI, LangChain, and Ollama.
+ 
+I spent five years going deep on the fundamentals: full-stack TypeScript with React/Next.js/Deno, advanced browser APIs, Docker, databases (PostgreSQL, Redis, SQLite), and a detour through graduate-level math (differential equations, linear algebra, abstract algebra, probability & statistics) so I could actually understand what's happening inside the models I build on top of.
+ 
+---
+ 
+## 🤖 AI & MCP Engineering
+ 
+The shift to AI-native development is the most interesting thing happening in software right now. Here's what I've been building:
+ 
+| Project | What it does |
+|---|---|
+| [**mcp-lib-ts**](https://github.com/aadilmallick/mcp-lib-ts) | TypeScript abstraction layer over the MCP SDK — cleaner DX for building MCP servers fast |
+| [**online-image-compressor-mcp-server**](https://github.com/aadilmallick/online-image-compressor-mcp-server) | Production MCP server: fetches online images, compresses/resizes via `sharp`, exposes tools to Claude |
+| [**assorted-vanilla-js-mcp**](https://github.com/aadilmallick/assorted-vanilla-js-mcp) | SSE MCP server on Vercel with vector database retrieval — gives Claude semantic search over JS utilities |
+| [**vercelai**](https://github.com/aadilmallick/vercelai) | Ergonomic abstractions over VercelAI SDK, Gemini, and OpenAI — cleaner streaming, tool use, and chat patterns |
+| [**ai-git-commit-message-generator**](https://github.com/aadilmallick/ai-git-commit-message-generator) | Feeds a `git diff` to an LLM and gets back a well-structured commit message |
+| [**whisper-streamlit**](https://github.com/aadilmallick/whisper-streamlit) | Local audio transcription + AI summarization via Whisper — runs entirely offline |
+| [**AI-engineering-stack**](https://github.com/aadilmallick/AI-engineering-stack) | My opinionated 2026 AI-first dev stack: documenting patterns for building with LLMs |
+ 
+> I also build **Claude Code skills** and automate my own workflows using **OpenClaw** — check out [claude-skills](https://github.com/aadilmallick/claude-skills) to see what that looks like.
+ 
+---
+ 
+## 🚀 Full-Stack Projects
+ 
+When I'm not wiring up LLMs, I build production-quality full-stack apps — often shipping in a single weekend:
+ 
+| Project | Stack | Description |
+|---|---|---|
+| [**VibeResume**](https://viberesume-ai.vercel.app/) | Next.js · Gemini 2.5 Flash | AI-powered resume → personal portfolio site generator, free to use |
+| [**loolite**](https://github.com/aadilmallick/loolite) | TypeScript | A Loom replacement — async screen recording without the bloat or paywall |
+| [**link-shortener**](https://github.com/aadilmallick/link-shortener) | Deno · SSR React 19 · Deno KV · OAuth | A bit.ly clone with Google/GitHub login, full CRUD, deployed on Deno Deploy |
+| [**deno-server-boilerplate**](https://github.com/aadilmallick/deno-server-boilerplate) | Deno · TypeScript · OAuth | Production-ready Deno template: typed KV data layer, custom router, OAuth integration |
+| [**my-notes-docusaurus**](https://github.com/aadilmallick/my-notes-docusaurus) | TypeScript · Docusaurus | 3+ years of compiled coding notes, publicly searchable |
+ 
+---
 
-## About me
+## My story
 
 I knew I fell in love with coding when five years ago, I was actively tinkering around with HTML in notepad++ and checking my experiments against the W3Schools HTML tutorial. I only continued from there: Python, JavaScript, React, TypeScript, NextJS, Astro, Deno, Bun, Docker, SQL. Whatever it was, I approached learning about coding as if it were play.
 
@@ -13,13 +63,26 @@ Here's how I progressed as a developer:
 * year 4: Locking down a wide breadth of developer fundamentals by learning databases (PostgreSQL, MongoDB, Redis, MySQL, SQLite), networking, Docker + Docker compose, clean code patterns, and learning OOP in TypeScript with advanced JavaScript APIs (proxies, web components, webRTC, shadow DOM).
 * year 5: Going back to math fundamentals, mastering differential equations, linear algebra, multivariable calculus, probability + statistics, abstract algebra, and even learning quantum computing. Experimented with Deno, Langchain, local LLMs via Ollama, OpenClawm and batch-processing hundreds of thousands of OpenAI API requests. Mastered data structures and implemented generic graph traversal with Dijkstra's in TypeScript.
 
-### What makes me special
-
-I'm willing to learn things that people aren't. Here are some of the niche technologies and subjects I'm learning:
-
-* Quantum Computing with Qiskit
-* Hosting fullstack Deno + TypeScript + SSR React applications on Deno Deploy
-* abstract algebra, probability + statistics, number theory, bayesian inference
+## 🧠 What Makes Me Different
+ 
+I've been pushing into areas most developers avoid. Some things I'm comfortable with that most fullstack devs aren't:
+ 
+- **MCP server development** — building tools that give LLMs structured access to systems and data
+- **AI workflow automation** — composing Claude Code skills and OpenClaw pipelines to automate dev tasks
+- **Math foundations** — linear algebra, differential equations, probability & statistics, abstract algebra — so I can work at the model level, not just the API level
+- **Browser internals** — Shadow DOM, Web Components, WebRTC, Service Workers, OPFS, Proxy objects
+- **Quantum computing** — actively learning Qiskit
+- **Networking, Cybersecurity, and Database theory**: Learning the theory behind HTTP/HTTPS, Cybersecurity fundamentals, and relational database performance.
+ 
+---
+ 
+## 📬 Let's Connect
+ 
+I'm actively looking for **entry-level SWE or AI/ML engineering roles**. If you're building something with AI at the core, I'd love to talk.
+ 
+- 🌐 **Portfolio:** [aadilmallick.com](http://aadilmallick.com)
+- 📧 **Email:** [amallick@wm.edu](mailto:amallick@wm.edu)
+- 🚀 **Current project:** [VibeResume](https://viberesume-ai.vercel.app/) — AI resume-to-portfolio generator using Gemini 2.5 Flash
 
 ### What I'm doing right now.
 
@@ -28,9 +91,14 @@ I'm willing to learn things that people aren't. Here are some of the niche techn
 * ✉️  You can contact me at [amallick@wm.edu](mailto:amallick@wm.edu)
 - 🔭 I’m currently working on [VibeResume](https://viberesume-ai.vercel.app/), which is an AI-powered resume to personal portfolio site generator, free to use with gemini-2.5-flash.
 - 🌱 I’m currently learning how to use OpenClaw to automate my life, first playing around locally and then offloading it to a VPS.
-* 💬  If you don't want to hire me as a developer at least hire me to work in McDonald's and let me put the fries in the bag.
 
-### Badges
+
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadilmallick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmallick)](https://github.com/anuraghazra/github-readme-stats)
