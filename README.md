@@ -26,12 +26,8 @@ The shift to AI-native development is the most interesting thing happening in so
 | Project | What it does |
 |---|---|
 | [**mcp-lib-ts**](https://github.com/aadilmallick/mcp-lib-ts) | TypeScript abstraction layer over the MCP SDK — cleaner DX for building MCP servers fast |
-| [**online-image-compressor-mcp-server**](https://github.com/aadilmallick/online-image-compressor-mcp-server) | Production MCP server: fetches online images, compresses/resizes via `sharp`, exposes tools to Claude |
-| [**assorted-vanilla-js-mcp**](https://github.com/aadilmallick/assorted-vanilla-js-mcp) | SSE MCP server on Vercel with vector database retrieval — gives Claude semantic search over JS utilities |
 | [**vercelai**](https://github.com/aadilmallick/vercelai) | Ergonomic abstractions over VercelAI SDK, Gemini, and OpenAI — cleaner streaming, tool use, and chat patterns |
-| [**ai-git-commit-message-generator**](https://github.com/aadilmallick/ai-git-commit-message-generator) | Feeds a `git diff` to an LLM and gets back a well-structured commit message |
 | [**whisper-streamlit**](https://github.com/aadilmallick/whisper-streamlit) | Local audio transcription + AI summarization via Whisper — runs entirely offline |
-| [**AI-engineering-stack**](https://github.com/aadilmallick/AI-engineering-stack) | My opinionated 2026 AI-first dev stack: documenting patterns for building with LLMs |
  
 > I also build **Claude Code skills** and automate my own workflows using **OpenClaw** — check out [claude-skills](https://github.com/aadilmallick/claude-skills) to see what that looks like.
  
@@ -48,6 +44,7 @@ When I'm not wiring up LLMs, I build production-quality full-stack apps — ofte
 | [**link-shortener**](https://github.com/aadilmallick/link-shortener) | Deno · SSR React 19 · Deno KV · OAuth | A bit.ly clone with Google/GitHub login, full CRUD, deployed on Deno Deploy |
 | [**deno-server-boilerplate**](https://github.com/aadilmallick/deno-server-boilerplate) | Deno · TypeScript · OAuth | Production-ready Deno template: typed KV data layer, custom router, OAuth integration |
 | [**my-notes-docusaurus**](https://github.com/aadilmallick/my-notes-docusaurus) | TypeScript · Docusaurus | 3+ years of compiled coding notes, publicly searchable |
+| [**easy-timesheets**](https://easy-timesheets.vercel.app) | TypeScript + NextJS + Neon + CLerk | Timesheet management for freelancers |
  
 ---
 
